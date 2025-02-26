@@ -1,0 +1,12 @@
+{
+    "server_list": [
+        {
+            "server_name": "test",
+            "server_address": "test"
+        },
+        {
+            "server_name": "Ron's Server",
+            "server_address": "69.181.12.179:27020"
+        }
+    ]
+}
